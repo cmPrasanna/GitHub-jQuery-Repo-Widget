@@ -1,5 +1,6 @@
 # GitHub jQuery Repo Widget
 
+
 Drop this script on your page and it will build you a beautiful widget that displays the status of your GitHub repo.
 
 ## What does it look like?
