@@ -17,3 +17,4 @@ Then include the javascript file somewhere after you've include jQuery:
 	<script type="text/javascript" src="jquery.githubRepoWidget.min.js"></script>
 
 That's it! All of the styling is included and image assets are pulled from GitHub.
+ 
